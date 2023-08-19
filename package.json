@@ -1,5 +1,10 @@
 {
   "name": "eslint-demo",
   "description": "This Repo contains the example files used in the ES Lint Tutorial at https://www.learnbycheating.com/subjects/vscode/how-to-use-eslint",
-  "main": "app.js"
+  "main": "app.js",
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
 }
