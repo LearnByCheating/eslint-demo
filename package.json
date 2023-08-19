@@ -1,0 +1,5 @@
+{
+  "name": "eslint-demo",
+  "description": "This Repo contains the example files used in the ES Lint Tutorial at https://www.learnbycheating.com/subjects/vscode/how-to-use-eslint",
+  "main": "app.js"
+}
